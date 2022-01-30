@@ -4,7 +4,7 @@ Projekt zaliczeniowy - Analiza eksploracyjna oraz wnioskowanie statystyczne dany
 
 ### Spis treści
 * [Opis](#opis)
-* [Dane i struktura](#dane i struktura)
+* [Dane](#dane)
 * [Wymagania](#wymagania)
 
 ## Opis
@@ -14,7 +14,7 @@ Dokumentacja projektowa wraz z dostarczonymi danymi dotyczą tematyki wielkości
 Dane zostały pobrane z popularnego serwisu [Kaggle](https://www.kaggle.com/)
 
 
-## Dane i struktura
+## Dane
 Plik z obejmuje dane z 45 sklepów Walmart i zawiera 6435 obserwacji zawartych w 8 kategoriach. 
 Są to dane historyczne, które obejmują sprzedaż od 2010-02-05 do 2012-11-01. W pliku tym znajdują się następujące pola:
 
@@ -57,6 +57,6 @@ Wspierane architektury:
 - x86 32 bit
 - x86 64 bit
 
-Autor:
+## Autor:
 Sławomir Kranc
 
