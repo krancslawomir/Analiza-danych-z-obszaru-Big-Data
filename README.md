@@ -6,6 +6,7 @@ Projekt zaliczeniowy - Analiza eksploracyjna oraz wnioskowanie statystyczne dany
 * [Opis](#opis)
 * [Dane](#dane)
 * [Wymagania](#wymagania)
+* [Pliki](#Pliki)
 
 ## Opis
 Temat projektu: Analiza eksploracyjna oraz wnioskowanie statystyczne danych pochodzących ze sklepów Walmart.
@@ -56,6 +57,13 @@ Wspierane platformy:
 Wspierane architektury:
 - x86 32 bit
 - x86 64 bit
+
+##  Pliki
+- ***Walmart Analysis.ipynb*** - analiza w programie Jupyter Notebook (kod w języku R).
+- ***Walmart Analysis.R*** - kod w języku R.
+- ***Walmart Data Frame Summary.pdf*** - prosta analiza eksploracyjna wygenerowana z wykorzystniem narzędzia summarytools. [Link](https://cran.r-project.org/web/packages/summarytools/index.html) oraz [Link](https://cran.r-project.org/web/packages/summarytools/index.html)
+- ***Walmart.csv*** - oryginalny plik źródłowy z danymi.
+
 
 ## Autor:
 Sławomir Kranc
